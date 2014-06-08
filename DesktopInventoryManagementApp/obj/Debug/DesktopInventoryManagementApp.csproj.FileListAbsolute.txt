@@ -1,0 +1,16 @@
+C:\Users\MAROB\Dropbox\Asp.net MVC\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\Asp.net MVC\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.Properties.Resources.resources
+C:\Users\MAROB\Dropbox\Asp.net MVC\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.csproj.GenerateResource.Cache
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\bin\Debug\DesktopInventoryManagementApp.exe.config
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\bin\Debug\DesktopInventoryManagementApp.exe
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\bin\Debug\DesktopInventoryManagementApp.pdb
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.Properties.Resources.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.UI.ManufacturerEntryUI.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.UI.ProviderCompanyUI.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.UI.RodPurchaseEntryUI.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.UI.RodQualityEntryUI.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.UI.RodSizeEntryUI.resources
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.csproj.GenerateResource.Cache
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.exe
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.pdb
+C:\Users\MAROB\Dropbox\C#\DesktopInventoryManagementApp\DesktopInventoryManagementApp\obj\Debug\DesktopInventoryManagementApp.csprojResolveAssemblyReference.cache
